@@ -87,8 +87,7 @@ In `tmap`, the spatial object to plot needs to be defined within the function `t
 Let's start by plotting the countries of the world.
 
 ```{r}
-
-
+# can you plot?
 ```
 
 ### Shapes hierarchy
